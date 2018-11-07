@@ -21,8 +21,9 @@ chasard=randint(1,100)
 r=0
 
 def nouvellePartie():
-    global r
+    global r,chasard
     r=0
+    chasard=randint(1,100)
     textEssai["text"]="tries: 0"
     textReponse["text"]=""
 
