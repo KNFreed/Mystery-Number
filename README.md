@@ -1,5 +1,5 @@
 # Mystery Number
-A "Try to guess the mystery number" program using Python
+A "Try to guess the mystery number" program using Python, tkinter and pillow
 
 Don't forget to install *Pillow* before lauching the *.py* by goig to "Your python directory/scripts" and execute *pip install pillow* in the command prompt.
 
